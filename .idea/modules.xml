@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA-Bootcamp-Java-main.iml" filepath="$PROJECT_DIR$/.idea/DSA-Bootcamp-Java-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydsa/day1/day1.iml" filepath="$PROJECT_DIR$/mydsa/day1/day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydsa/mydsa.iml" filepath="$PROJECT_DIR$/mydsa/mydsa.iml" />
+    </modules>
+  </component>
+</project>
