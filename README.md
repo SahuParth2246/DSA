@@ -13,3 +13,19 @@
 | 54   | 67     |   3  |
 
 *NIT Hamirpur • CS Undergrad • Java + MERN*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SahuParth2246/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SahuParth2246/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SahuParth2246/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+<!---LeetCode Topics End-->
