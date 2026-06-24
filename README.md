@@ -24,6 +24,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SahuParth2246/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SahuParth2246/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/SahuParth2246/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SahuParth2246/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -46,6 +47,7 @@
 | [0054-spiral-matrix](https://github.com/SahuParth2246/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SahuParth2246/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/SahuParth2246/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SahuParth2246/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -58,4 +60,5 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/SahuParth2246/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
 <!---LeetCode Topics End-->
