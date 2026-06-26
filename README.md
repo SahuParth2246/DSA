@@ -26,6 +26,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SahuParth2246/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SahuParth2246/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0289-game-of-life](https://github.com/SahuParth2246/DSA/tree/main/0289-game-of-life/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/SahuParth2246/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SahuParth2246/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -53,6 +54,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SahuParth2246/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0289-game-of-life](https://github.com/SahuParth2246/DSA/tree/main/0289-game-of-life/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/SahuParth2246/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SahuParth2246/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
