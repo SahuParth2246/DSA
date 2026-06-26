@@ -28,6 +28,7 @@
 | [0289-game-of-life](https://github.com/SahuParth2246/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/SahuParth2246/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SahuParth2246/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -56,6 +57,7 @@
 | [0289-game-of-life](https://github.com/SahuParth2246/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/SahuParth2246/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SahuParth2246/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/SahuParth2246/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
