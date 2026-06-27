@@ -3,7 +3,6 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
         int ans [] = new int [n];
-
         for(int j = 0; j<n;j++){
             int currcol = j;
             boolean isStuck = false;
@@ -20,14 +19,11 @@ class Solution {
                 }
                 currcol = nextcol;
             }
-            
             if(isStuck){
                 ans[j]=-1;
             }
             else ans[j]= currcol;
-            
         }
         return ans;
-        
     }
 }
