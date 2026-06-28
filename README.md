@@ -30,6 +30,7 @@
 | [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SahuParth2246/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1314-matrix-block-sum](https://github.com/SahuParth2246/DSA/tree/main/1314-matrix-block-sum/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/SahuParth2246/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/SahuParth2246/DSA/tree/main/1706-where-will-the-ball-fall/) | Medium |
@@ -62,6 +63,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/SahuParth2246/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
+| [1314-matrix-block-sum](https://github.com/SahuParth2246/DSA/tree/main/1314-matrix-block-sum/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/SahuParth2246/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/SahuParth2246/DSA/tree/main/1706-where-will-the-ball-fall/) | Medium |
@@ -99,4 +101,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/SahuParth2246/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1314-matrix-block-sum](https://github.com/SahuParth2246/DSA/tree/main/1314-matrix-block-sum/) | Medium |
 <!---LeetCode Topics End-->
