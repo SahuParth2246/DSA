@@ -28,6 +28,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0289-game-of-life](https://github.com/SahuParth2246/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/SahuParth2246/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0704-binary-search](https://github.com/SahuParth2246/DSA/tree/main/0704-binary-search/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/SahuParth2246/DSA/tree/main/1046-last-stone-weight/) | Easy |
@@ -136,4 +137,8 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/SahuParth2246/DSA/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
