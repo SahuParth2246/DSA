@@ -56,6 +56,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SahuParth2246/DSA/tree/main/0048-rotate-image/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SahuParth2246/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SahuParth2246/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SahuParth2246/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
