@@ -19,6 +19,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/SahuParth2246/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/SahuParth2246/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/SahuParth2246/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/SahuParth2246/DSA/tree/main/0054-spiral-matrix/) | Medium |
@@ -142,5 +143,6 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/SahuParth2246/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/SahuParth2246/DSA/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
