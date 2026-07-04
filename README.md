@@ -33,6 +33,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SahuParth2246/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/SahuParth2246/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/SahuParth2246/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/SahuParth2246/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/SahuParth2246/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -76,6 +77,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SahuParth2246/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SahuParth2246/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/SahuParth2246/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/SahuParth2246/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -129,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -163,6 +166,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahuParth2246/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SahuParth2246/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/SahuParth2246/DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/SahuParth2246/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/SahuParth2246/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
