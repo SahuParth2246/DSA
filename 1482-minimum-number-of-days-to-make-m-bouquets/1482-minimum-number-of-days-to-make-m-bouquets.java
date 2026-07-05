@@ -1,5 +1,6 @@
 class Solution {
     public int minDays(int[] nums, int m, int k) {
+        if ((long) m * k > nums.length) return -1;
         int start =1;
         int end = 0;
         for(int num: nums){
@@ -11,7 +12,7 @@ class Solution {
             if(n<m)start = mid+1;
             else if(n>=m)end = mid-1;
         }
-        if ((long) m * k > nums.length) return -1;
+        
         return start;
         
     }
