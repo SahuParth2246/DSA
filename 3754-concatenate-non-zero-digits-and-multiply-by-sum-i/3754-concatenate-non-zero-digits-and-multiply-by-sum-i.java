@@ -1,20 +1,16 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        List<Integer> digits = new ArrayList<>();
-        int temp = n;
-        while (temp > 0) {
-            int d = temp % 10;
-            if (d != 0) digits.add(d);
-            temp /= 10;
+        int x=0;
+        int sum=0;
+        int i=1;
+        while(n>0){
+            int m=n % 10;
+            n /=10;
+            if(m == 0) continue;
+            sum += m;
+            x += (m * i);
+            i *=10;
         }
-        Collections.reverse(digits);
-        
-        long x = 0, sum = 0;
-        for (int d : digits) {
-            x = x * 10 + d;
-            sum += d;
-        }
-        
-        return x * sum;
+        return (long) x * sum;
     }
 }
