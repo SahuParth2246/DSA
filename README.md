@@ -44,6 +44,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/SahuParth2246/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/SahuParth2246/DSA/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+| [1854-maximum-population-year](https://github.com/SahuParth2246/DSA/tree/main/1854-maximum-population-year/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SahuParth2246/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/SahuParth2246/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
@@ -124,6 +125,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SahuParth2246/DSA/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1314-matrix-block-sum](https://github.com/SahuParth2246/DSA/tree/main/1314-matrix-block-sum/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+| [1854-maximum-population-year](https://github.com/SahuParth2246/DSA/tree/main/1854-maximum-population-year/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,4 +199,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SahuParth2246/DSA/tree/main/0070-climbing-stairs/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1854-maximum-population-year](https://github.com/SahuParth2246/DSA/tree/main/1854-maximum-population-year/) | Easy |
 <!---LeetCode Topics End-->
