@@ -206,4 +206,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1854-maximum-population-year](https://github.com/SahuParth2246/DSA/tree/main/1854-maximum-population-year/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/SahuParth2246/DSA/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
