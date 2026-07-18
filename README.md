@@ -48,6 +48,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1854-maximum-population-year](https://github.com/SahuParth2246/DSA/tree/main/1854-maximum-population-year/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SahuParth2246/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SahuParth2246/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/SahuParth2246/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -66,6 +67,7 @@
 | [0070-climbing-stairs](https://github.com/SahuParth2246/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SahuParth2246/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SahuParth2246/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SahuParth2246/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SahuParth2246/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SahuParth2246/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Matrix
@@ -216,5 +218,6 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SahuParth2246/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SahuParth2246/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
