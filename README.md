@@ -67,6 +67,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SahuParth2246/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/SahuParth2246/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/SahuParth2246/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SahuParth2246/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SahuParth2246/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SahuParth2246/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -148,6 +149,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/SahuParth2246/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SahuParth2246/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Sorting
@@ -229,4 +231,8 @@
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SahuParth2246/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SahuParth2246/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/SahuParth2246/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 <!---LeetCode Topics End-->
