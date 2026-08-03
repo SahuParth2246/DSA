@@ -35,6 +35,7 @@
 | [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/SahuParth2246/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
+| [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SahuParth2246/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/SahuParth2246/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SahuParth2246/DSA/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
@@ -147,6 +148,7 @@
 | [0169-majority-element](https://github.com/SahuParth2246/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/SahuParth2246/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/SahuParth2246/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/SahuParth2246/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
@@ -169,6 +172,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/SahuParth2246/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Quickselect
@@ -240,4 +244,20 @@
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/SahuParth2246/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
