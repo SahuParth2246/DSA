@@ -67,6 +67,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SahuParth2246/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/SahuParth2246/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/SahuParth2246/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SahuParth2246/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SahuParth2246/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -124,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/SahuParth2246/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -207,6 +209,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SahuParth2246/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/SahuParth2246/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -216,6 +219,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SahuParth2246/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,5 +238,6 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/SahuParth2246/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 <!---LeetCode Topics End-->
