@@ -17,6 +17,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SahuParth2246/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SahuParth2246/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/SahuParth2246/DSA/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SahuParth2246/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SahuParth2246/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahuParth2246/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -153,6 +154,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/SahuParth2246/DSA/tree/main/0078-subsets/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/SahuParth2246/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SahuParth2246/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
@@ -260,4 +262,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/SahuParth2246/DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
