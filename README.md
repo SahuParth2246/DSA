@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/SahuParth2246/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/SahuParth2246/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/SahuParth2246/DSA/tree/main/0041-first-missing-positive/) | Hard |
+| [0046-permutations](https://github.com/SahuParth2246/DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/SahuParth2246/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/SahuParth2246/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -265,5 +266,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/SahuParth2246/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/SahuParth2246/DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
