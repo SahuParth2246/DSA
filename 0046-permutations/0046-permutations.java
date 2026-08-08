@@ -3,6 +3,7 @@ class Solution {
     boolean [] used ;
 
     public List<List<Integer>> permute(int[]nums){
+        Arrays.sort(nums);
         used = new boolean [nums.length];
         backtrack(nums,new ArrayList<>());
         return result;
