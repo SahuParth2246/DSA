@@ -105,6 +105,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SahuParth2246/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/SahuParth2246/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/SahuParth2246/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/SahuParth2246/DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -131,6 +132,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SahuParth2246/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/SahuParth2246/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/SahuParth2246/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -275,6 +277,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SahuParth2246/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0046-permutations](https://github.com/SahuParth2246/DSA/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/SahuParth2246/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/SahuParth2246/DSA/tree/main/0078-subsets/) | Medium |
