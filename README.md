@@ -13,6 +13,7 @@
 | [0036-valid-sudoku](https://github.com/SahuParth2246/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/SahuParth2246/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/SahuParth2246/DSA/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/SahuParth2246/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/SahuParth2246/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/SahuParth2246/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -162,6 +163,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/SahuParth2246/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0169-majority-element](https://github.com/SahuParth2246/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/SahuParth2246/DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -267,5 +269,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/SahuParth2246/DSA/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/SahuParth2246/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/SahuParth2246/DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
