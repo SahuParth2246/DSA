@@ -15,6 +15,7 @@
 | [0046-permutations](https://github.com/SahuParth2246/DSA/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/SahuParth2246/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/SahuParth2246/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/SahuParth2246/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/SahuParth2246/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SahuParth2246/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -106,6 +107,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/SahuParth2246/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/SahuParth2246/DSA/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/SahuParth2246/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SahuParth2246/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/SahuParth2246/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/SahuParth2246/DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -129,6 +131,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/SahuParth2246/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/SahuParth2246/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/SahuParth2246/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -166,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/SahuParth2246/DSA/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/SahuParth2246/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/SahuParth2246/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/SahuParth2246/DSA/tree/main/0229-majority-element-ii/) | Medium |
