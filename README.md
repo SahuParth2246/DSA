@@ -231,6 +231,7 @@
 | [0070-climbing-stairs](https://github.com/SahuParth2246/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/SahuParth2246/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/SahuParth2246/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Greedy
 |  |
 | ------- |
