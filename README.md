@@ -41,6 +41,7 @@
 | [0875-koko-eating-bananas](https://github.com/SahuParth2246/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SahuParth2246/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/SahuParth2246/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SahuParth2246/DSA/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
@@ -76,6 +77,7 @@
 | [0070-climbing-stairs](https://github.com/SahuParth2246/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/SahuParth2246/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SahuParth2246/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SahuParth2246/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SahuParth2246/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -163,6 +165,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Bit Manipulation
 |  |
@@ -183,6 +186,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/SahuParth2246/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/SahuParth2246/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
@@ -193,6 +197,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SahuParth2246/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Quickselect
@@ -200,6 +205,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Binary Search
 |  |
@@ -296,4 +302,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SahuParth2246/DSA/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
