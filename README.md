@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SahuParth2246/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/SahuParth2246/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SahuParth2246/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/SahuParth2246/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -247,6 +248,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SahuParth2246/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/SahuParth2246/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SahuParth2246/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -303,6 +305,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SahuParth2246/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/SahuParth2246/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SahuParth2246/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SahuParth2246/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/SahuParth2246/DSA/tree/main/0046-permutations/) | Medium |
@@ -326,4 +329,8 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/SahuParth2246/DSA/tree/master/0052-n-queens-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SahuParth2246/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
