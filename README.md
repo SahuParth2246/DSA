@@ -66,6 +66,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/SahuParth2246/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/SahuParth2246/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SahuParth2246/DSA/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/SahuParth2246/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/SahuParth2246/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/SahuParth2246/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SahuParth2246/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/SahuParth2246/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
