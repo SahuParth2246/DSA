@@ -19,23 +19,22 @@ class Solution {
         List<Double> list = new ArrayList<>();
         if(root==null)return list;
         q.offer(root);
+        double sum = 0;
+        int size = 0;
         List<Integer> curr = new ArrayList<>();
         while(!q.isEmpty()){
             int levelSize = q.size();
+            size = levelSize;
             while(levelSize>0){
                 TreeNode t = q.poll();
-                curr.add(t.val);
+                sum+=t.val;
                 if(t.left!=null)q.offer(t.left);
                 if(t.right!=null)q.offer(t.right);
                 levelSize--;
             }
-            double sum = 0;
-            for(int num :curr){
-                sum+=num;
-            }
-            sum=sum/curr.size();
+            sum=sum/size;
             list.add(sum);
-            curr.clear();
+            sum=0;
         }
         return list;
     }
