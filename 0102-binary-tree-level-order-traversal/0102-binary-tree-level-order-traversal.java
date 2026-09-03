@@ -23,8 +23,7 @@ class Solution {
         while(!q.isEmpty()){
             int levelSize = q.size();
             while(levelSize>0){
-                TreeNode t = q.peek();
-                q.poll();
+                TreeNode t = q.poll();
                 curr.add(t.val);
                 if(t.left!=null)q.offer(t.left);
                 if(t.right!=null)q.offer(t.right);
