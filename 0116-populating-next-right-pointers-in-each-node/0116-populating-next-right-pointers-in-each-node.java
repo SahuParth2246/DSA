@@ -23,24 +23,38 @@ class Node {
 
 class Solution {
     public Node connect(Node root) {
-        Deque <Node> q =  new ArrayDeque<>();
-        if(root==null)return null;
-        q.offer(root);
-        while(!q.isEmpty()){
-            int size = q.size();
-            Node x = q.poll();
-            if(x.left!=null)q.offer(x.left);
-            if(x.right!=null)q.offer(x.right);
-            size--;
-            while(size>0){
-                Node t = q.poll();
-                x.next = t;
-                x=x.next;
-                if(t.left!=null)q.offer(t.left);
-                if(t.right!=null)q.offer(t.right);
-                size--;
+        // Deque <Node> q =  new ArrayDeque<>();
+        // if(root==null)return null;
+        // q.offer(root);
+        // while(!q.isEmpty()){
+        //     int size = q.size();
+        //     Node x = q.poll();
+        //     if(x.left!=null)q.offer(x.left);
+        //     if(x.right!=null)q.offer(x.right);
+        //     size--;
+        //     while(size>0){
+        //         Node t = q.poll();
+        //         x.next = t;
+        //         x=x.next;
+        //         if(t.left!=null)q.offer(t.left);
+        //         if(t.right!=null)q.offer(t.right);
+        //         size--;
+        //     }
+        //     x.next = null;
+        // }
+        // return root;
+        if(root == null) return null;
+        Node curr = root;
+        while(curr != null){
+            Node temp = curr;
+            while(temp != null){
+                if(temp.left != null){
+                    temp.left.next = temp.right;
+                    if(temp.next != null) temp.right.next = temp.next.left;
+                }
+                temp = temp.next;
             }
-            x.next = null;
+            curr = curr.left;
         }
         return root;
     }
