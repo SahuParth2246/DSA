@@ -265,6 +265,7 @@
 | [0022-generate-parentheses](https://github.com/SahuParth2246/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/SahuParth2246/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SahuParth2246/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SahuParth2246/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/SahuParth2246/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SahuParth2246/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -360,6 +361,7 @@
 | [0110-balanced-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SahuParth2246/DSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SahuParth2246/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SahuParth2246/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SahuParth2246/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SahuParth2246/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SahuParth2246/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -379,6 +381,7 @@
 | [0110-balanced-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SahuParth2246/DSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SahuParth2246/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SahuParth2246/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SahuParth2246/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SahuParth2246/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SahuParth2246/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -401,6 +404,7 @@
 | [0110-balanced-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SahuParth2246/DSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SahuParth2246/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SahuParth2246/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SahuParth2246/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SahuParth2246/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SahuParth2246/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -428,6 +432,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SahuParth2246/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
