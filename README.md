@@ -156,6 +156,7 @@
 | [0125-valid-palindrome](https://github.com/SahuParth2246/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/SahuParth2246/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/SahuParth2246/DSA/tree/master/0257-binary-tree-paths) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Design
 |  |
@@ -329,6 +330,7 @@
 | [0052-n-queens-ii](https://github.com/SahuParth2246/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/SahuParth2246/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SahuParth2246/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/SahuParth2246/DSA/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
 | ------- |
@@ -368,6 +370,7 @@
 | [0226-invert-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SahuParth2246/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SahuParth2246/DSA/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/SahuParth2246/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SahuParth2246/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -388,6 +391,7 @@
 | [0226-invert-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SahuParth2246/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SahuParth2246/DSA/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/SahuParth2246/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SahuParth2246/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -411,6 +415,7 @@
 | [0226-invert-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SahuParth2246/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SahuParth2246/DSA/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/SahuParth2246/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SahuParth2246/DSA/tree/master/0572-subtree-of-another-tree) |
