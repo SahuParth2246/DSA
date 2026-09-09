@@ -63,6 +63,7 @@
 | [1854-maximum-population-year](https://github.com/SahuParth2246/DSA/tree/main/1854-maximum-population-year/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SahuParth2246/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SahuParth2246/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SahuParth2246/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/SahuParth2246/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -158,6 +159,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/SahuParth2246/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/SahuParth2246/DSA/tree/master/0257-binary-tree-paths) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SahuParth2246/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -185,6 +187,7 @@
 | [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SahuParth2246/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +213,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/SahuParth2246/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SahuParth2246/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SahuParth2246/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -221,6 +225,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SahuParth2246/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SahuParth2246/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +233,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/SahuParth2246/DSA/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SahuParth2246/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
