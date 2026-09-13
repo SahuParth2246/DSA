@@ -390,6 +390,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SahuParth2246/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/SahuParth2246/DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SahuParth2246/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -451,6 +452,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SahuParth2246/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/SahuParth2246/DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SahuParth2246/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -470,6 +472,7 @@
 | [0226-invert-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/SahuParth2246/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/SahuParth2246/DSA/tree/master/1609-even-odd-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
