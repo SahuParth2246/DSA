@@ -396,6 +396,7 @@
 | [1609-even-odd-tree](https://github.com/SahuParth2246/DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SahuParth2246/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -425,6 +426,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SahuParth2246/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -460,6 +462,7 @@
 | [1609-even-odd-tree](https://github.com/SahuParth2246/DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SahuParth2246/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
