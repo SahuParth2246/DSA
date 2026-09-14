@@ -14,23 +14,24 @@
  * }
  */
 class Solution {
+    int count = 0;
+    int result = 0;
+
     public int kthSmallest(TreeNode root, int k) {
-        PriorityQueue<Integer> heap = new PriorityQueue<>(Collections.reverseOrder());
-        Deque<TreeNode> q = new ArrayDeque<>();
-        q.offer(root);
-        while(!q.isEmpty()){
-            int size = q.size();
-            while(size>0){
-                TreeNode temp = q.poll();
-                heap.add(temp.val);
-                while(heap.size()>k){
-                    heap.poll();
-                }
-                if(temp.left!=null)q.offer(temp.left);
-                if(temp.right!=null)q.offer(temp.right);
-                size--;
-            }
+        inorder(root, k);
+        return result;
+    }
+
+    public void inorder(TreeNode node, int k) {
+        if (node == null) return;
+
+        inorder(node.left, k); 
+        count++;
+        if (count == k) {      
+            result = node.val;
+            return;
         }
-        return heap.poll();
+
+        inorder(node.right, k);
     }
 }
