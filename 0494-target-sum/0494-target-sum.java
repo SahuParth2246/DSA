@@ -1,17 +1,22 @@
 class Solution {
-    int count = 0;
+    Map<String, Integer> memo = new HashMap<>();
 
     public int findTargetSumWays(int[] nums, int target) {
-        solve(nums, target, 0, 0);
-        return count;
+        return solve(nums, target, 0, 0);
     }
 
-    public void solve(int[] nums, int target, int index, int current) {
+    public int solve(int[] nums, int target, int index, int current) {
         if (index == nums.length) {
-            if (current == target) count++;
-            return;
+            return current == target ? 1 : 0;
         }
-        solve(nums, target, index + 1, current + nums[index]);
-        solve(nums, target, index + 1, current - nums[index]);
+
+        String key = index + "," + current;  
+        if (memo.containsKey(key)) return memo.get(key);
+
+        int result = solve(nums, target, index + 1, current + nums[index])
+                   + solve(nums, target, index + 1, current - nums[index]);
+
+        memo.put(key, result);
+        return result;
     }
 }
