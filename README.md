@@ -37,6 +37,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/SahuParth2246/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/SahuParth2246/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0494-target-sum](https://github.com/SahuParth2246/DSA/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SahuParth2246/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/SahuParth2246/DSA/tree/main/0704-binary-search/) | Easy |
@@ -278,6 +279,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/SahuParth2246/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/SahuParth2246/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0494-target-sum](https://github.com/SahuParth2246/DSA/tree/master/0494-target-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SahuParth2246/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Greedy
 |  |
@@ -341,6 +343,7 @@
 | [0090-subsets-ii](https://github.com/SahuParth2246/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/SahuParth2246/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/SahuParth2246/DSA/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/SahuParth2246/DSA/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -511,4 +514,12 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SahuParth2246/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SahuParth2246/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SahuParth2246/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
