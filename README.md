@@ -40,6 +40,7 @@
 | [0494-target-sum](https://github.com/SahuParth2246/DSA/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SahuParth2246/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/SahuParth2246/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/SahuParth2246/DSA/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/SahuParth2246/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -133,6 +134,7 @@
 | [0242-valid-anagram](https://github.com/SahuParth2246/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0508-most-frequent-subtree-sum](https://github.com/SahuParth2246/DSA/tree/master/0508-most-frequent-subtree-sum) |
+| [0692-top-k-frequent-words](https://github.com/SahuParth2246/DSA/tree/master/0692-top-k-frequent-words) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/SahuParth2246/DSA/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/SahuParth2246/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SahuParth2246/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -161,6 +163,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/SahuParth2246/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/SahuParth2246/DSA/tree/master/0257-binary-tree-paths) |
+| [0692-top-k-frequent-words](https://github.com/SahuParth2246/DSA/tree/master/0692-top-k-frequent-words) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SahuParth2246/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Design
@@ -209,6 +212,7 @@
 | [0242-valid-anagram](https://github.com/SahuParth2246/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/SahuParth2246/DSA/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/SahuParth2246/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -223,6 +227,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/SahuParth2246/DSA/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/SahuParth2246/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SahuParth2246/DSA/tree/main/1046-last-stone-weight/) | Easy |
@@ -297,6 +302,7 @@
 | [0169-majority-element](https://github.com/SahuParth2246/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/SahuParth2246/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/SahuParth2246/DSA/tree/master/0692-top-k-frequent-words) |
 | [1854-maximum-population-year](https://github.com/SahuParth2246/DSA/tree/main/1854-maximum-population-year/) | Easy |
 ## Enumeration
 |  |
@@ -320,6 +326,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SahuParth2246/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/SahuParth2246/DSA/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/SahuParth2246/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 |  |
@@ -522,4 +529,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/SahuParth2246/DSA/tree/master/0494-target-sum) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/SahuParth2246/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
