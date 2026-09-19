@@ -156,6 +156,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/SahuParth2246/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SahuParth2246/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/SahuParth2246/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SahuParth2246/DSA/tree/main/0049-group-anagrams/) | Medium |
