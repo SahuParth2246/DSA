@@ -25,6 +25,7 @@
 | [0078-subsets](https://github.com/SahuParth2246/DSA/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SahuParth2246/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SahuParth2246/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0088-merge-sorted-array](https://github.com/SahuParth2246/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SahuParth2246/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SahuParth2246/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SahuParth2246/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -208,6 +209,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/SahuParth2246/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/SahuParth2246/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/SahuParth2246/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SahuParth2246/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/SahuParth2246/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/SahuParth2246/DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -268,6 +270,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SahuParth2246/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SahuParth2246/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SahuParth2246/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
