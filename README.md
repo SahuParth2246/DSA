@@ -167,6 +167,7 @@
 | [0242-valid-anagram](https://github.com/SahuParth2246/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/SahuParth2246/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/SahuParth2246/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/SahuParth2246/DSA/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/SahuParth2246/DSA/tree/master/0692-top-k-frequent-words) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SahuParth2246/DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -274,6 +275,7 @@
 | [0088-merge-sorted-array](https://github.com/SahuParth2246/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SahuParth2246/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/SahuParth2246/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/SahuParth2246/DSA/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SahuParth2246/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Sliding Window
@@ -291,6 +293,7 @@
 | [0070-climbing-stairs](https://github.com/SahuParth2246/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SahuParth2246/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SahuParth2246/DSA/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0392-is-subsequence](https://github.com/SahuParth2246/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SahuParth2246/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/SahuParth2246/DSA/tree/master/0494-target-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SahuParth2246/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
