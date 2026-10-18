@@ -13,18 +13,54 @@
  *     }
  * }
  */
+
 class Solution {
+    Deque <TreeNode> asc = new ArrayDeque<>();
+    Deque <TreeNode> desc = new ArrayDeque<>();
     public boolean findTarget(TreeNode root, int k) {
-        return solve(root,k);
+        if(root==null)return false;
+        TreeNode t = root;
+        while(t!=null){
+            asc.push(t);
+            t = t.left;
+        }
+        t=root;
+        while(t!=null){
+            desc.push(t);
+            t = t.right;
+        }
+
+        TreeNode i = getsmall();
+        TreeNode j = getbig();
+        while(i!=null&&j!=null&&i!=j&&i.val<j.val){
+            int sum = j.val + i.val;
+            if(sum==k)return true;
+            else if(sum<k){
+                i=getsmall();
+            }else{
+                j=getbig();
+            }
+        }
+        return false;
     }
-    HashMap<Integer,Integer> map = new HashMap<>();
-    public boolean solve(TreeNode root,int k){
-        if(root==null)return false ;
-        int seen = k-root.val;
-        if(map.containsKey(seen))return true;
-        else map.put(root.val,map.getOrDefault(root.val,0)+1);
-        boolean left = solve(root.left,k);
-        boolean right = solve(root.right,k);
-        return left||right;
+    public TreeNode getsmall(){
+        if(asc.isEmpty())return null;
+        TreeNode small = asc.pop();
+        TreeNode right = small.right;
+        while(right!=null){
+            asc.push(right);
+            right = right.left;
+        }
+        return small;
+    }
+    public TreeNode getbig(){
+        if(desc.isEmpty())return null;
+        TreeNode big = desc.pop();
+        TreeNode left = big.left;
+        while(left!=null){
+            desc.push(left);
+            left = left.right;
+        }
+        return big;
     }
 }
