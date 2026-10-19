@@ -44,6 +44,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/SahuParth2246/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/SahuParth2246/DSA/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/SahuParth2246/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/SahuParth2246/DSA/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/SahuParth2246/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/SahuParth2246/DSA/tree/master/0733-flood-fill) |
@@ -116,6 +117,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/SahuParth2246/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/SahuParth2246/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/SahuParth2246/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0695-max-area-of-island](https://github.com/SahuParth2246/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahuParth2246/DSA/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/SahuParth2246/DSA/tree/main/0885-spiral-matrix-iii/) | Medium |
@@ -460,6 +462,7 @@
 | [0572-subtree-of-another-tree](https://github.com/SahuParth2246/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SahuParth2246/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/SahuParth2246/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahuParth2246/DSA/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SahuParth2246/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -521,6 +524,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/SahuParth2246/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SahuParth2246/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/SahuParth2246/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahuParth2246/DSA/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -573,4 +577,5 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/SahuParth2246/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SahuParth2246/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/SahuParth2246/DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
