@@ -74,6 +74,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/SahuParth2246/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/SahuParth2246/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SahuParth2246/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SahuParth2246/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
@@ -130,6 +131,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SahuParth2246/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/SahuParth2246/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/SahuParth2246/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -466,6 +468,7 @@
 | [0733-flood-fill](https://github.com/SahuParth2246/DSA/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SahuParth2246/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/SahuParth2246/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -530,6 +533,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/SahuParth2246/DSA/tree/master/1609-even-odd-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/SahuParth2246/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## DP on Trees
 |  |
 | ------- |
@@ -578,4 +582,5 @@
 | [0130-surrounded-regions](https://github.com/SahuParth2246/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SahuParth2246/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SahuParth2246/DSA/tree/master/0695-max-area-of-island) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/SahuParth2246/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
