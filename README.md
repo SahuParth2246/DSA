@@ -43,6 +43,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/SahuParth2246/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/SahuParth2246/DSA/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SahuParth2246/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/SahuParth2246/DSA/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/SahuParth2246/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/SahuParth2246/DSA/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/SahuParth2246/DSA/tree/master/0695-max-area-of-island) |
@@ -122,6 +123,7 @@
 | [0289-game-of-life](https://github.com/SahuParth2246/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/SahuParth2246/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SahuParth2246/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/SahuParth2246/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/SahuParth2246/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SahuParth2246/DSA/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/SahuParth2246/DSA/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -314,6 +316,7 @@
 | [0392-is-subsequence](https://github.com/SahuParth2246/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SahuParth2246/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/SahuParth2246/DSA/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/SahuParth2246/DSA/tree/master/0542-01-matrix) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SahuParth2246/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Greedy
 |  |
@@ -534,6 +537,7 @@
 | [0226-invert-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SahuParth2246/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/SahuParth2246/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/SahuParth2246/DSA/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SahuParth2246/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SahuParth2246/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/SahuParth2246/DSA/tree/master/0695-max-area-of-island) |
