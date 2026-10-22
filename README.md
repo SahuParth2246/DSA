@@ -79,6 +79,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SahuParth2246/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/SahuParth2246/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SahuParth2246/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/SahuParth2246/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/SahuParth2246/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SahuParth2246/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -141,6 +142,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SahuParth2246/DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/SahuParth2246/DSA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/SahuParth2246/DSA/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SahuParth2246/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/SahuParth2246/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
@@ -320,6 +322,7 @@
 | [0494-target-sum](https://github.com/SahuParth2246/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SahuParth2246/DSA/tree/master/0542-01-matrix) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SahuParth2246/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SahuParth2246/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
